@@ -50,7 +50,8 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
 * image::contenthtml5.png["HTML5"]
 
 === les nouvelles balises de l'HTML5
-* image::http://www.alsacreations.com/xmedia/tuto/exemples/html5/html5div.gif["HTML5"]
+
+image::http://www.alsacreations.com/xmedia/tuto/exemples/html5/html5div.gif["HTML5"]
 
 === les nouvelles balises de l'HTML5
 ==== organisation du flux :
@@ -90,12 +91,15 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
 === évolution des formulaires
 ==== tel 
 
-* image::http://www.html5-css3.fr/wp-content/uploads/2011/01/html5-form-iphone-tel.png
-* ou image::http://www.html5-css3.fr/wp-content/uploads/2011/01/html5-form-android-number.png
+image::http://www.html5-css3.fr/wp-content/uploads/2011/01/html5-form-iphone-tel.png[]
+
+ou
+
+image::http://www.html5-css3.fr/wp-content/uploads/2011/01/html5-form-android-number.png[]
 
 === évolution des formulaires
 
-* url image::http://www.html5-css3.fr/wp-content/uploads/2011/01/html5-form-iphone-url.png
+url image::http://www.html5-css3.fr/wp-content/uploads/2011/01/html5-form-iphone-url.png[]
 
 === évolution des formulaires
 * datalist
@@ -124,7 +128,10 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
   
 * audio
 * video
-* canvas image::http://www.alsacreations.com/xmedia/tuto/exemples/html5/html5canvas.jpg
+* canvas
+
+image::http://www.alsacreations.com/xmedia/tuto/exemples/html5/html5canvas.jpg[]
+
 * WebGL
 
 == Les évolutions de CSS3
@@ -138,18 +145,24 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
 * Les bordures arrondies
 * box-shadow
 * text-shadow
-image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-text-shadow.jpg
+
+image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-text-shadow.jpg[]
+
 * opacity
-image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-opacity1.png
+
+image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-opacity1.png[]
+
 * transition
-image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-transition.png
+
+image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-transition.png[]
 
 
 === les selecteurs
 
 * http://devfiles.myopera.com/articles/9132/basic-spinner.html[annimation^]
 * pair/impair
-image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-nth-child-table.png
+
+image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-nth-child-table.png[]
 
 ````table tr:nth-child(odd){````
 
@@ -201,7 +214,7 @@ image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-nth-child-table.
   
 === viewport
 
-image::http://devfiles.myopera.com/articles/5082/viewport_device-width.jpg
+image::http://devfiles.myopera.com/articles/5082/viewport_device-width.jpg[]
 
 === Les colonnes
   p{
@@ -210,9 +223,9 @@ image::http://devfiles.myopera.com/articles/5082/viewport_device-width.jpg
 
 passe de
 
-+ image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-columns-1.png
-+ image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-columns-2.png
-+ image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-columns-3.png
+image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-columns-1.png[]
+image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-columns-2.png[]
+image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-columns-3.png[]
 
 === Les transformations
 
@@ -220,7 +233,7 @@ passe de
 
 === Les rotations
 
-+ image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-transform.png
+image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-transform.png[]
 
 === Les transformations
 
@@ -232,21 +245,25 @@ http://magneval.github.io/jeuxPlateauHTML5/[exemple sur un jeux de plateaux^]
 
 === La perspective
 
-image::http://www.html5-css3.fr/wp-content/uploads/2011/11/transformation-3D-CSS3-perspective.png
+image::http://www.html5-css3.fr/wp-content/uploads/2011/11/transformation-3D-CSS3-perspective.png[]
 
 === Les dégradés de couleurs
 
-+ image::http://www.html5-css3.fr/wp-content/uploads/2011/10/d%C3%A9grad%C3%A9s-couleurs-css3-gradient.png
+image::http://www.html5-css3.fr/wp-content/uploads/2011/10/d%C3%A9grad%C3%A9s-couleurs-css3-gradient.png[]
 
 === lineaire
-+ image::http://www.html5-css3.fr/wp-content/uploads/2011/10/internet-explorer-gradient-css3-0.png
-+ image::gradient-diagram.png)
+
+image::http://www.html5-css3.fr/wp-content/uploads/2011/10/internet-explorer-gradient-css3-0.png[]
+
+image::gradient-diagram.png[]
 
 === circulaires
-+ image::http://www.html5-css3.fr/wp-content/uploads/2011/10/css3-radial-gradient.png
+
+image::http://www.html5-css3.fr/wp-content/uploads/2011/10/css3-radial-gradient.png[]
 
 === les polices de caractères
-+ image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-font-face.png
+
+image::http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-font-face.png[]
 
 == Les évolutions de Javascript lié a HTML5
 
@@ -259,7 +276,7 @@ image::http://www.html5-css3.fr/wp-content/uploads/2011/11/transformation-3D-CSS
     
 === geolocalisation
 
-+ image::http://www.html5-css3.fr/wp-content/uploads/2011/01/barre-autorisation-partage-g%C3%A9olocalisation.png
+image::http://www.html5-css3.fr/wp-content/uploads/2011/01/barre-autorisation-partage-g%C3%A9olocalisation.png[]
 
 === application offline
 
@@ -268,7 +285,7 @@ image::http://www.html5-css3.fr/wp-content/uploads/2011/11/transformation-3D-CSS
 
 * local Storage
 
- localStorage.setItem("name", "John");   
+ localStorage.setItem("name", "John");
  
  alert(localStorage.getItem("name"));
  
@@ -312,7 +329,7 @@ image::http://www.html5-css3.fr/wp-content/uploads/2011/01/findmebyip-html5-css3
 
 == Question réponse
 
-+ image::../images/HTML5.png["HTML5"]
+image::../images/HTML5.png["HTML5"]
 + http://html5demos.com/[http://html5demos.com/^]
 + http://en.wikipedia.org/wiki/Comparison_of_layout_engines_(HTML_5)[Comparaison des moteurs]
 + http://caniuse.com/[verification des fonctionnalitées^]
