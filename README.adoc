@@ -24,7 +24,7 @@ https://github.com/magneval/
 image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Presentation-HTML5/client.html&amp;size=100x100&.png[qrCode, id="qrCode", name="qrCode"]
 
 === Plan
-
+[%step]
   * HTML5 label marketing ou vraie évolution ?
   * les nouvelles balises de l'HTML5
   * Les évolutions de CSS3
@@ -32,7 +32,7 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
   * Le point sur le support d' HTML5 par les différents navigateurs
   * Question réponse
 
-# HTML5 label marketing ou vraie évolution ?
+== HTML5 label marketing ou vraie évolution ?
   
   + Le marketing :
       de WHATWG a  ![](http://www.alsacreations.com/xmedia/doc/medium/html5-logo.png "HTML5")
@@ -45,15 +45,15 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
       * le CSS3
       * les API JavaScripts
 
-# les nouvelles balises de l'HTML5
+=== les nouvelles balises de l'HTML5
   
   + ![](contenthtml5.png "HTML5")
 
-# les nouvelles balises de l'HTML5
+=== les nouvelles balises de l'HTML5
   + ![](http://www.alsacreations.com/xmedia/tuto/exemples/html5/html5div.gif "HTML5")
 
-# les nouvelles balises de l'HTML5
-## organisation du flux :
+=== les nouvelles balises de l'HTML5
+==== organisation du flux :
   + section
   + aside
   + nav
@@ -65,8 +65,8 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
   + figcaption
 
 
-# les nouvelles balises de l'HTML5
-## [nouvelles balises](http://www.w3schools.com/tags/)
+=== les nouvelles balises de l'HTML5
+==== [nouvelles balises](http://www.w3schools.com/tags/)
 
   + svg et math
   + mark (mise en exidence)
@@ -78,8 +78,8 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
   + summary
   + details
 
-# évolution des formulaires
-## date
+=== évolution des formulaires
+==== date
   + datetime
   + datetime-local
   + date
@@ -87,15 +87,15 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
   + week
   + time
 
-# évolution des formulaires
-## tel 
+=== évolution des formulaires
+==== tel 
 
   +![](http://www.html5-css3.fr/wp-content/uploads/2011/01/html5-form-iphone-tel.png) ou ![](http://www.html5-css3.fr/wp-content/uploads/2011/01/html5-form-android-number.png)
 
-# évolution des formulaires
+=== évolution des formulaires
   + url ![](http://www.html5-css3.fr/wp-content/uploads/2011/01/html5-form-iphone-url.png)
 
-# évolution des formulaires
+=== évolution des formulaires
   + datalist
   + number
   + range
@@ -105,7 +105,7 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
   + output
   + color
 
-# attributs
+=== attributs
   
   + form
   + required
@@ -118,20 +118,20 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
   + microdata
   + datas
 
-# Multimedia
+=== Multimedia
   
   + audio
   + video
   + canvas ![](http://www.alsacreations.com/xmedia/tuto/exemples/html5/html5canvas.jpg)
   + WebGL
 
-# Les évolutions de CSS3
+== Les évolutions de CSS3
 
   * [color-transition](http://dev.opera.com/static/dstorey/transitions/color-transition.html)
   
   * [image-gallery](http://devfiles.myopera.com/articles/1041/image-gallery.html)
 
-# Les effets visuels
+=== Les effets visuels
 
   * Les bordures arrondies
   * box-shadow
@@ -143,7 +143,7 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
   ![](http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-transition.png)
 
 
-# les selecteurs
+=== les selecteurs
 
 * annimation
 ![](http://devfiles.myopera.com/articles/9132/basic-spinner.html)
@@ -162,7 +162,7 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
 
     ````}````
 
-# les selecteurs
+=== les selecteurs
 
 * par la valeur d’un de leurs attributs
 
@@ -180,7 +180,7 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
 
   }
 
-# les selecteurs
+=== les selecteurs
 
 * Les media queries
   
@@ -198,11 +198,11 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
    
   }
   
-# viewport
+=== viewport
 
 ![](http://devfiles.myopera.com/articles/5082/viewport_device-width.jpg)
 
-# Les colonnes
+=== Les colonnes
   p{
     column-count:2;
   }
@@ -212,15 +212,15 @@ passe de
 + ![](http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-columns-2.png)
 + ![](http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-columns-3.png)
 
-# Les transformations
+=== Les transformations
 
 + ![](http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-3d-transform.jpg)
 
-# Les rotations
+=== Les rotations
 
 + ![](http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-transform.png)
 
-# Les transformations
+=== Les transformations
 
 * Les translations
 * Les changements d’échelle
@@ -228,25 +228,25 @@ passe de
 
 [exemple sur un jeux de plateaux](http://magneval.github.io/jeuxPlateauHTML5/)
 
-# La perspective
+=== La perspective
 
 ![](http://www.html5-css3.fr/wp-content/uploads/2011/11/transformation-3D-CSS3-perspective.png)
 
-# Les dégradés de couleurs
+=== Les dégradés de couleurs
 
 + ![](http://www.html5-css3.fr/wp-content/uploads/2011/10/d%C3%A9grad%C3%A9s-couleurs-css3-gradient.png)
 
-# lineaire
+=== lineaire
 + ![](http://www.html5-css3.fr/wp-content/uploads/2011/10/internet-explorer-gradient-css3-0.png)
 + ![](gradient-diagram.png)
 
-# circulaires
+=== circulaires
 + ![](http://www.html5-css3.fr/wp-content/uploads/2011/10/css3-radial-gradient.png)
 
-# les polices de caractères
+=== les polices de caractères
 + ![](http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-font-face.png)
 
-# Les évolutions de Javascript lié a HTML5
+== Les évolutions de Javascript lié a HTML5
 
 * [classlist](http://html5demos.com/classlist)
 * [dataset](http://html5demos.com/dataset)
@@ -255,11 +255,11 @@ passe de
     * 2D
     * [3D](http://dev.opera.com/articles/view/an-introduction-to-webgl/)
     
-# geolocalisation
+=== geolocalisation
 
 + ![](http://www.html5-css3.fr/wp-content/uploads/2011/01/barre-autorisation-partage-g%C3%A9olocalisation.png)
 
-# application offline
+=== application offline
 
 * [offline](http://html5demos.com/offline)
 * [storage](http://html5demos.com/storage)
@@ -274,40 +274,40 @@ passe de
 * SQL Storage
 * [application cache](http://html5demos.com/offlineapp)
 
-# Les Web Sockets
+=== Les Web Sockets
 
 + [web-socket](http://html5demos.com/web-socket)
 
-# La webcam
+=== La webcam
 
 + [headtracker](http://auduno.github.com/headtrackr/examples/targets.html)
 
-# accelerometre
+=== accelerometre
 
 * deviceorientation
 * devicemotion
 
-# DragNDrop
+=== DragNDrop
 
 + [dnd-upload](http://html5demos.com/dnd-upload)
 + [drag](http://html5demos.com/drag)
 + [drag-anything](http://html5demos.com/drag-anything)
 
-# FileReader
+=== FileReader
 
 + [file-api-simple](http://html5demos.com/file-api-simple)
 
-# il en faut encore ?
+=== il en faut encore ?
 
 * [postMessage](http://html5demo.braincracking.org/demo/postMessage.php)
 * worker  
 * [Server-Sent Events](http://www.w3schools.com/html/tryit.asp?filename=tryhtml5_sse)
 
-# Le point sur le support d' HTML5 par les différents navigateurs
+== Le point sur le support d' HTML5 par les différents navigateurs
 
 ![](http://www.html5-css3.fr/wp-content/uploads/2011/01/findmebyip-html5-css3.jpg "comparatif")
 
-# Question réponse
+== Question réponse
 
 + ![](../images/HTML5.png "HTML5")
 + [http://html5demos.com/](http://html5demos.com/)
