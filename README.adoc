@@ -41,7 +41,7 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
 * Le doctype est simplifié :
       ````<!DOCTYPE html>````
 * L'évolution dans les 3 facettes d'HTML5
-** [les balises HTML](http://dev.w3.org/html5/html4-differences/)
+** http://dev.w3.org/html5/html4-differences/[les balises HTML^]
 ** le CSS3
 ** les API JavaScripts
 
@@ -66,7 +66,7 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
 
 
 === les nouvelles balises de l'HTML5
-==== [nouvelles balises](http://www.w3schools.com/tags/)
+==== http://www.w3schools.com/tags/[nouvelles balises^]
 
 * svg et math
 * mark (mise en exidence)
@@ -90,9 +90,11 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
 === évolution des formulaires
 ==== tel 
 
-*![](http://www.html5-css3.fr/wp-content/uploads/2011/01/html5-form-iphone-tel.png) ou ![](http://www.html5-css3.fr/wp-content/uploads/2011/01/html5-form-android-number.png)
+* ![](http://www.html5-css3.fr/wp-content/uploads/2011/01/html5-form-iphone-tel.png)
+* ou ![](http://www.html5-css3.fr/wp-content/uploads/2011/01/html5-form-android-number.png)
 
 === évolution des formulaires
+
 * url ![](http://www.html5-css3.fr/wp-content/uploads/2011/01/html5-form-iphone-url.png)
 
 === évolution des formulaires
@@ -112,7 +114,7 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
 * draggable et dropzone
 ** ````<li draggable="true">Element de ma liste</li>````
 **  ```` <div ondrop="drop(this, event)">````
-* [contenteditable](http://html5demos.com/contenteditable)
+* http://html5demos.com/contenteditable[contenteditable^]
 * spellcheck
 * microformat
 * microdata
@@ -127,9 +129,9 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
 
 == Les évolutions de CSS3
 
-* [color-transition](http://dev.opera.com/static/dstorey/transitions/color-transition.html)
+* http://dev.opera.com/static/dstorey/transitions/color-transition.html[color-transition^]
   
-* [image-gallery](http://devfiles.myopera.com/articles/1041/image-gallery.html)
+* http://devfiles.myopera.com/articles/1041/image-gallery.html[image-gallery^]
 
 === Les effets visuels
 
@@ -145,8 +147,7 @@ image::https://api.qrserver.com/v1/create-qr-code/?data=magneval.github.io/Prese
 
 === les selecteurs
 
-* annimation
-![](http://devfiles.myopera.com/articles/9132/basic-spinner.html)
+* http://devfiles.myopera.com/articles/9132/basic-spinner.html[annimation^]
 * pair/impair
 ![](http://www.html5-css3.fr/wp-content/uploads/2011/01/css3-nth-child-table.png)
 
@@ -227,7 +228,7 @@ passe de
 * Les changements d’échelle
 * Matrice
 
-[exemple sur un jeux de plateaux](http://magneval.github.io/jeuxPlateauHTML5/)
+http://magneval.github.io/jeuxPlateauHTML5/[exemple sur un jeux de plateaux^]
 
 === La perspective
 
@@ -249,12 +250,12 @@ passe de
 
 == Les évolutions de Javascript lié a HTML5
 
-* [classlist](http://html5demos.com/classlist)
-* [dataset](http://html5demos.com/dataset)
-* [history](http://html5demos.com/history)
+* http://html5demos.com/classlist[classlist^]
+* http://html5demos.com/dataset[dataset^]
+* http://html5demos.com/history[history^]
 * canvas
 ** 2D
-** [3D](http://dev.opera.com/articles/view/an-introduction-to-webgl/)
+** http://dev.opera.com/articles/view/an-introduction-to-webgl/[3D^]
     
 === geolocalisation
 
@@ -262,8 +263,8 @@ passe de
 
 === application offline
 
-* [offline](http://html5demos.com/offline)
-* [storage](http://html5demos.com/storage)
+* http://html5demos.com/offline[offline^]
+* http://html5demos.com/storage[storage^]
 
 * local Storage
 
@@ -273,15 +274,15 @@ passe de
  
 * session Storage
 * SQL Storage
-* [application cache](http://html5demos.com/offlineapp)
+* http://html5demos.com/offlineapp[application cache^]
 
 === Les Web Sockets
 
-+ [web-socket](http://html5demos.com/web-socket)
++ http://html5demos.com/web-socket[web-socket^]
 
 === La webcam
 
-+ [headtracker](http://auduno.github.com/headtrackr/examples/targets.html)
++ http://auduno.github.com/headtrackr/examples/targets.html[headtracker^]
 
 === accelerometre
 
@@ -290,19 +291,20 @@ passe de
 
 === DragNDrop
 
-+ [dnd-upload](http://html5demos.com/dnd-upload)
-+ [drag](http://html5demos.com/drag)
-+ [drag-anything](http://html5demos.com/drag-anything)
++ http://html5demos.com/dnd-upload[dnd-upload^]
++ http://html5demos.com/drag[drag^]
++ http://html5demos.com/drag-anything[drag-anything^]
 
 === FileReader
 
-+ [file-api-simple](http://html5demos.com/file-api-simple)
++ http://html5demos.com/file-api-simple[file-api-simple^]
 
 === il en faut encore ?
 
-* [postMessage](http://html5demo.braincracking.org/demo/postMessage.php)
-* worker  
-* [Server-Sent Events](http://www.w3schools.com/html/tryit.asp?filename=tryhtml5_sse)
+* http://html5demo.braincracking.org/demo/postMessage.php[postMessage^]
+* les worker
+* http://www.w3schools.com/html/tryit.asp?filename=tryhtml5_sse[Server-Sent Events^]
+* les services worker  
 
 == Le point sur le support d' HTML5 par les différents navigateurs
 
@@ -311,7 +313,7 @@ passe de
 == Question réponse
 
 + ![](../images/HTML5.png "HTML5")
-+ [http://html5demos.com/](http://html5demos.com/)
++ http://html5demos.com/[http://html5demos.com/^]
 + [Comparaison des moteurs](http://en.wikipedia.org/wiki/Comparison_of_layout_engines_(HTML_5))
-+ [verification des fonctionnalitées](http://caniuse.com/)
++ http://caniuse.com/[verification des fonctionnalitées^]
 + des questions ?
